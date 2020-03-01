@@ -1,3 +1,4 @@
+#https://drakonhub.com/ide/doc/a-ersh/2
 import random
 def randomGame(num):
     randnum = random.randint(1,4)
